@@ -26,3 +26,19 @@ Thumbs.db
 
 # Generic caches
 .cache/
+
+# Node.js dependencies
+node_modules/
+
+# SvelteKit and Vite build artifacts
+.svelte-kit/
+dist/
+build/
+
+# Test and coverage outputs
+coverage/
+
+# Package manager and tool caches
+.npm/
+.parcel-cache/
+.vite/
